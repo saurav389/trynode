@@ -1,0 +1,2 @@
+Hello we have learnt all the part of file like reading wring and appending.
+this is line no two
